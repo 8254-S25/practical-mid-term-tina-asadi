@@ -1,0 +1,18 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:ssh             0.0.0.0:*               LISTEN     
+tcp        0      0 localhost:mysql         0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:5900            0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:webmin          0.0.0.0:*               LISTEN     
+tcp      130      0 192.168.68.121:58482    pnyula-aa-in-f10.:https CLOSE_WAIT 
+tcp        0      0 localhost:41765         localhost:33064         ESTABLISHED
+tcp        0      0 localhost:33064         localhost:41765         ESTABLISHED
+tcp        0      0 192.168.68.121:ssh      192.168.68.102:53507    ESTABLISHED
+tcp        0      0 192.168.68.121:59994    192.168.68.104:8009     ESTABLISHED
+tcp6       0      0 [::]:http               [::]:*                  LISTEN     
+tcp6       0      0 [::]:ssh                [::]:*                  LISTEN     
+tcp6       0      0 [::]:epmd               [::]:*                  LISTEN     
+tcp6       0      0 localhost:ipp           [::]:*                  LISTEN     
+tcp6       0      0 [::]:5900               [::]:*                  LISTEN     
+tcp6       0      0 [::]:webmin             [::]:*                  LISTEN     

@@ -1,0 +1,88 @@
+.
+├── 2023-02-20-211723_1920x1080_scrot.png
+├── 2025-05-23-114131_1920x1080_scrot.png
+├── 2025-05-23-114147_1920x1080_scrot.png
+├── 2025-05-23-114148_1920x1080_scrot_000.png
+├── 2025-05-23-114148_1920x1080_scrot_001.png
+├── 2025-05-23-114148_1920x1080_scrot_002.png
+├── 2025-05-23-114148_1920x1080_scrot_003.png
+├── 2025-05-23-114148_1920x1080_scrot.png
+├── 2025-05-23-114158_1920x1080_scrot_000.png
+├── 2025-05-23-114158_1920x1080_scrot_001.png
+├── 2025-05-23-114158_1920x1080_scrot_002.png
+├── 2025-05-23-114158_1920x1080_scrot.png
+├── 2025-05-23-114159_1920x1080_scrot.png
+├── asad0019-lab2.tgz
+├── Bookshelf
+│   └── BeginnersGuide-4thEd-Eng_v2%20(1).pdf
+├── Desktop
+├── Documents
+├── Downloads
+│   ├── lab3-2.txt
+│   ├── lab3-3.txt
+│   └── lab3.py
+├── genlist.py
+├── jcameron-key.asc
+├── lab2-2.txt
+├── lab2-3.txt
+├── lab2.py
+├── lab3
+│   ├── file1-1.txt
+│   ├── folder1
+│   │   ├── file1-2.txt
+│   │   └── file1-3.txt
+│   └── folder2
+│       ├── file2-1.txt
+│       ├── file2-2.txt
+│       └── file2-3.txt
+├── lab3-2.txt
+├── lab3-3.txt
+├── lab3.py
+├── lab4.txt
+├── midtermExam-301
+├── midtermPi.txt
+├── mt.txt
+├── Music
+├── netstat.txt
+├── Pictures
+├── pr1.txt
+├── pr2.txt
+├── pr.txt
+├── Public
+├── Templates
+├── tinaasadi.txt
+├── units-1.74
+│   ├── aclocal.m4
+│   ├── ansi2knr.1
+│   ├── ansi2knr.c
+│   ├── ChangeLog
+│   ├── configure
+│   ├── configure.in
+│   ├── COPYING
+│   ├── getopt1.c
+│   ├── getopt.c
+│   ├── getopt.h
+│   ├── INSTALL
+│   ├── install-sh
+│   ├── Makefile.dos
+│   ├── Makefile.in
+│   ├── mkinstalldirs
+│   ├── NEWS
+│   ├── parse.tab.c
+│   ├── parse.y
+│   ├── README
+│   ├── strfunc.c
+│   ├── texi2man
+│   ├── units.c
+│   ├── units.dat
+│   ├── units.doc
+│   ├── units.dvi
+│   ├── units.h
+│   ├── units.info
+│   ├── units.man
+│   └── units.texinfo
+├── units-1.74.tar.gz
+├── usernames.txt
+└── Videos
+
+14 directories, 71 files
